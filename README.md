@@ -39,7 +39,7 @@ Run it with no arguments. You should hopefully get a listing like this.
     ii  zlib1g-dev          1:1.2.3.4.dfsg-3ubuntu3      compression library - development
     ii  libusb-dev          2:0.1.12-17                  userspace USB programming library development files
     ii  unzip               6.0-4ubuntu1                 De-archiver for .zip files
-    
+    ii  xutils-dev          1:7.6+1                      X Window System utility programs for development  
     
     Packages missing:
     
@@ -88,5 +88,5 @@ Here's the package list
     zlib1g-dev
     libusb-dev
     unzip
-
+    xutils-dev (for makedepend)
 

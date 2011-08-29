@@ -6,7 +6,7 @@
 import subprocess
 
 package_list = [ 'gawk', 'bison', 'flex', 'automake', 'libtool', 'libncurses5-dev',
-		'zlib1g-dev', 'libusb-dev', 'unzip' ]
+		'zlib1g-dev', 'libusb-dev', 'unzip', 'xutils-dev' ]
 
 
 not_found = []

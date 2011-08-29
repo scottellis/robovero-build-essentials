@@ -1,10 +1,10 @@
 Package: robovero-build-essentials
-Version: 0.1
+Version: 0.2
 Section: main
 Priority: standard
 Architecture: all
 Depends: gawk, bison, flex, automake, libtool, libncurses5-dev,
-	zlib1g-dev, libusb-dev, unzip
+	zlib1g-dev, libusb-dev, unzip, xutils-dev
 Recommends:
 Maintainer: Scott Ellis <scott@jumpnowtek.com>
 Description: Base install meta package for Gumstix Robovero development
